@@ -6,7 +6,7 @@ Swift Package binary distribution of the `fplayercore` iOS XCFramework from
 ## Usage
 
 ```swift
-.package(url: "https://github.com/FlutterPlayer/fplayercore-ios.git", exact: "1.2.11")
+.package(url: "https://github.com/FlutterPlayer/fplayercore-ios.git", exact: "1.2.12")
 ```
 
 ```swift
